@@ -1,0 +1,76 @@
+                                                               Lecture One Tasks
+
+Task_one::
+1_ PHP Script or Programming Languages?
+
+PHP is a scripting language, which is one of many programming
+languages. Note that all scripting languages are programming
+languages, but not all programming languages are scripting
+languages. A programming language is a formal computer
+language that combines instructions to generate a specific output.
+
+Task_Two::
+2_What is The Type Of Error In Programming Language?
+
+1_Syntax Error =>
+ust like human languages, computer languages have grammar rules. But while humans are able to communicate with less-than-perfect grammar, computers can’t ignore mistakes.
+2_Logic Error =>
+Logic errors can be the hardest to track down. Everything looks like it is working; you have just programmed the computer to do the wrong thing. Technically the program is correct, but the results won’t be what you expected.
+If you didn’t check the requirements beforehand and wrote code to return the oldest user in your system when you needed the newest, you would have a logic error.
+3_Compilation Errors =>
+Some programming languages require a compilation step. Compilation is where your high-level language converts into a lower-level language that the computer can understand better. A compilation or compile-time error happens when the compiler doesn’t know how to turn your code into the lower-level code.
+4_ Runtime Errors =>
+Runtime errors happen as a user is executing your program. The code might work correctly on your machine, but on the webserver, there might be a different configuration, or it might be interacted with in a way that could cause a runtime error.
+5_ Arithmetic Errors =>
+An arithmetic error is a type of logic error but involves mathematics. A typical example when performing a division equation is that you cannot divide by zero without causing an issue. Very few people would write 5 / 0, but you might not think that the size of something in your system might sometimes be zero, which would lead to this type of error.
+6_ Resource Errors =>
+The computer that your program is on will allocate a fixed amount of resources to the running of it. If something in your code forces the computer to try and allocate more resources than it has, it can create a resource error, If you accidentally wrote a loop that your code could never exit from, you would eventually run out of resources.
+7_ Interface Errors =>
+Interface errors occur when there is a disconnect between how you meant your program to be used and how it is actually used. Most things in software follow standards. If input your program receives doesn’t conform to the standards, you might get an interface error.
+
+
+Task_Three::
+3_What Is Interpretrer Language And Example On It? 
+Interpreted languages were once significantly slower than compiled
+ languages. But, with the development of just-in-time compilation, that gap is shrinking. 
+Examples of common interpreted languages are PHP, Ruby, Python, and JavaScript.
+
+Task_Four::
+4_What Is The Type Of Write Cde Or Paradigms And The Best Of Them?
+Programming paradigms are different ways or styles in which a given program or programming language can be organized. Each paradigm consists of certain structures, features, and opinions about how common programming problems should be tackled.
+There Are Many Paradigms ::
+*  Imperative programming
+*  Procedural programming
+*  Functional programming
+*  Declarative programming
+*  Object-oriented programming
+
+The Best Of These Is Declarative Programming
+
+
+Task_Five::
+What are the companies that work in the field of artificial intelligence in Egypt, what is their specialization, and how many are they?
+
+1) Crowd Analyzer
+2) Sprints
+3) FlapKap
+4) Cassbana
+5) MerQ
+6) WideBot
+7) Weelo
+8) HireHunt
+9) AvidBeam Technologies
+
+Number Of Them Are 68 Companies To Read more You Can Go To This Link :: https://tracxn.com/explore/Artificial-Intelligence-Startups-in-Egypt
+
+This in Egypt For all World 
+1) Google
+2) Facebook
+3) Amazon
+4) IBM
+5) Microsoft
+
+If You Need More Go To This Link ::
+https://clutch.co/developers/artificial-intelligence
+
+
