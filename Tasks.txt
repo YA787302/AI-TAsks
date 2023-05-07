@@ -1,0 +1,48 @@
+Task_One :
+
+Json file in all programs ?
+JSON (JavaScript Object Notation) a file that stores simple data structures and objects in JavaScript Object Notation (JSON) format, which is a standard data interchange format. It is primarily used for transmitting data between a web application and a server. JSON files are lightweight, text-based, human-readable, and can be edited using a text editor.
+used in Ajax Web application programming
+Mozilla Firefox saves bookmark backups using JSON files. 
+
+Syntax :
+
+{
+   "name":"Jack",
+   "age":30,
+   "contactNumbers":[
+      {
+         "type":"Home",
+         "number":"123 123-123"
+      },
+      {
+         "type":"Office",
+         "number":"321 321-321"
+      }
+   ],
+   "spouse":null,
+   "favoriteSports":[
+      "Football",
+      "Cricket"
+   ]
+}
+
+JSON vs XML
+
+XML is another common and widely used file format for exchange of data over the internet. When it comes to exchange of data between applications, developers have option of using both XML and JSON file formats. However, JSON is adopted as the most convenient way for data exchange between applications over the internet due to the following reasons.
+
+JSON gives a clear and easier to read view of data as compared to XML file formats
+JSON reduces the overhead of data transfer over the internet as it has less number of characters to define the same set of data as compared to XML
+Modern programming languages provide builtin parsers to parse the JSON response over the web.
+
+Why use JSON file?
+It is a standard type of data interchange format. The users are mostly used it to transmit the data from a web application to a server (to take a backup of the data) and vice-versa from a server to a web server (to restore the data). The JSON files use .json extension similar to the XML file format while saving.
+Let's see why should we use JSON files -
+
+The JSON files are lightweight and take less storage to be stored.
+These files can be usually created and edited by a text editor. These text editors are mostly freely available.
+JSON files are human-readable means the user can read them easily.
+These files can be opened in any simple text editor like Notepad, which is easy to use.
+Almost every programming language supports JSON format because they have libraries and functions to read/write JSON structures.
+
+
